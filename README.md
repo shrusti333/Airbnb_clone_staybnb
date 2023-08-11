@@ -1,4 +1,4 @@
-# staybnb vacation rentals website
+#Airbnb-clone-staybnb vacation rentals website
 staybnb is a service that lets property owners rent out their spaces to travelers looking for a place to stay. Travelers can rent a space for multiple  
 
 signin and login div were we can swap between them
